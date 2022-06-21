@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal Das.
-- 👀 I’m interested in computational biology and bioinfomatics
-- 🌱 I’m currently learning how to apply AI/ML in healthcare data and biology/life sciences
+- 👀 I’m interested in computational biology, genomics and bioinfomatics pipelines
+- 🌱 I’m currently learning how to apply AI/ML in healthcare data and life sciences
 - 💞️ I’m looking to collaborate on some independent projects to develop my skills
 - 📫 How to reach me: https://www.linkedin.com/in/kunaldas-uom2021/ 
 -
